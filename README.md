@@ -42,7 +42,7 @@ Using a dataset filtered specifically for **India**, I analyzed the top 5 skills
 * **Visualization Preference:** **Tableau** appears as a top-5 requirement for both Data Analysts (34%) and Data Scientists (21%), proving that storytelling with data is a cross-functional necessity. 📊
 
 ### 🖼️ Featured Visualization
-![Top 5 Skills for In-Demand Data Jobs in India](images/2_Skill_demand.png)
+![Top 5 Skills for In-Demand Data Jobs in India](4_images/2_Skill_demand.png)
 > *Figure 1: Percentage of job postings requiring specific technical skills in India.*
 
 ## 💻 Code Sneak Peek: Dynamic Data Labeling
@@ -70,7 +70,7 @@ Using a time-series pivot of the **India** dataset, I tracked how the demand for
 * **Spark’s Volatility:** **Spark** showed the most fluctuation, dipping to its lowest point in **September (25%)** before stabilizing, reflecting its specialized nature in big data engineering cycles. ⚡
 
 ### 🖼️ Featured Visualization
-![Trend of Top 5 Skills by Likelihood for India Data Jobs](images/3_Skill_trend.png)
+![Trend of Top 5 Skills by Likelihood for India Data Jobs](4_images/3_Skill_trend.png)
 > *Figure 2: Monthly likelihood (%) of top skills appearing in India-based data job postings (2023).*
 
 ## 💻 Code Sneak Peek: Data Labeling and Format
@@ -106,7 +106,7 @@ In this section, I explored the financial landscape of data roles in India, focu
 * **High-End Outliers:** Most roles feature significant outliers, suggesting that niche specializations or international firms in the Indian market often pay well above the standard median. 📈
 
 ### 🖼️ Featured Visualization
-![Salary Distribution for High Paying India Data Jobs](images/4_Salary_analysis.png)
+![Salary Distribution for High Paying India Data Jobs](4_images/4_Salary_analysis.png)
 > *Figure 3: Yearly salary distribution ($USD) for the top 6 highest-paying data job titles in India.*
 
 ## 💻 Code Sneak Peek: Data Cleaning & Salary Visualization
@@ -148,7 +148,7 @@ In this final analysis, I examined the relationship between skill popularity (de
 * **Visualizing the Gap:** There is a clear distinction between what the market *needs most* (SQL/Excel) and what the market *pays most for* (Specialized libraries/languages).
 
 ### 🖼️ Featured Visualization
-![Skill Salary Analysis for Data Analyst Jobs](images/5_Skill_analysis.png)
+![Skill Salary Analysis for Data Analyst Jobs](4_images/5_Skill_analysis.png)
 > *Figure 4: Comparison of Top 10 skills by Median Salary (Pay) vs. Top 10 skills by Frequency (Demand).*
 
 ## 💻 Code Sneak Peek: Multi-Plot Visualization
@@ -181,7 +181,7 @@ The final phase of my analysis involved mapping out the "Sweet Spot" for Data An
 * **Emerging Tech:** Languages like **Go** are starting to appear in the high-pay, low-demand sector, highlighting a shift toward more technical, engineering-heavy data roles. 🚀
 
 ### 🖼️ Featured Visualization
-![Optimum US Data Analyst Job Skills by Demand vs Pay](images/6_Optimum_skills.png)
+![Optimum US Data Analyst Job Skills by Demand vs Pay](4_images/6_Optimum_skills.png)
 > *Figure 5: Scatter plot of Skill Count % vs. Median Salary, categorized by technology type.*
 
 ## 💻 Code Sneak Peek: Advanced Visualization & Labeling
